@@ -13,3 +13,6 @@ Data used for this project takes into account different kinds of criminality (e.
 ## Results 
 The results show that even if criminality can be partially explained by the level of intervention of each government, other factors (not analysed in the project) affect the dependent variable. 
 More studies are requires (for example, application of non linear models). 
+
+## Citation 
+I obtained the data from Kaggle [GDP vs. Organized Crime][https://www.kaggle.com/datasets/fxvdinxnd/correlation-data].
