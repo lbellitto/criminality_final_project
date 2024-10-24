@@ -15,4 +15,4 @@ The results show that even if criminality can be partially explained by the leve
 More studies are requires (for example, application of non linear models). 
 
 ## Citation 
-I obtained the data from Kaggle [https://www.kaggle.com/datasets/fxvdinxnd/correlation-data][GDP vs. Organized Crime].
+I obtained the data from Kaggle [GDP vs. Organized Crime](https://www.kaggle.com/datasets/fxvdinxnd/correlation-data).
