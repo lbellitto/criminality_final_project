@@ -3,7 +3,7 @@ My aim is to explain criminality through different factors which can be describe
 
 ## Project Overview
 
-Data used for this project takes into account different kinds of criminality (e.g. human trafficking, money laundrey...), GDP, and intervention of different governemnts (e.g. law enforcement).  
+Data used for this project takes into account different kinds of criminality (e.g. human trafficking, money laundrey...), GDP, and intervention of different governments (e.g. law enforcement).  
 
 ## Python Packages Used
 
